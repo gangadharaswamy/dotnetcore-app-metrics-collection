@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  consoletowebapi:
+    image: ${DOCKER_REGISTRY-}consoletowebapi
+    build:
+      context: .
+      dockerfile: ConsoleToWebAPI/Dockerfile

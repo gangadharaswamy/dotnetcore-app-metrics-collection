@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.exe
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.deps.json
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.dll
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\bin\Debug\netcoreapp3.1\ConsoleToWebAPI.pdb
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.dll
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.pdb
+C:\Users\Administrator\source\repos\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\netcoreapp3.1\ConsoleToWebAPI.genruntimeconfig.cache

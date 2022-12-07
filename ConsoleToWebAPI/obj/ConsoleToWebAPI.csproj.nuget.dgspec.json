@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/ConsoleToWebAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/ConsoleToWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/ConsoleToWebAPI.csproj",
+        "projectName": "ConsoleToWebAPI",
+        "projectPath": "/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/ConsoleToWebAPI.csproj",
+        "packagesPath": "/Users/gangadhar/.nuget/packages/",
+        "outputPath": "/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gangadhar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "App.Metrics.AspNetCore": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "App.Metrics.AspNetCore.Endpoints": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "App.Metrics.AspNetCore.Tracking": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "App.Metrics.Formatters.Prometheus": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "prometheus-net.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

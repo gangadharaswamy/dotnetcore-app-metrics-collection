@@ -1,0 +1,73 @@
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.exe
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.deps.json
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.runtimeconfig.json
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.runtimeconfig.dev.json
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.dll
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ref/ConsoleToWebAPI.dll
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.pdb
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.csproj.AssemblyReference.cache
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.AssemblyInfoInputs.cache
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.AssemblyInfo.cs
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/staticwebassets/ConsoleToWebAPI.StaticWebAssets.Manifest.cache
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/staticwebassets/ConsoleToWebAPI.StaticWebAssets.xml
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/scopedcss/bundle/ConsoleToWebAPI.styles.css
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.RazorTargetAssemblyInfo.cache
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.dll
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ref/ConsoleToWebAPI.dll
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.pdb
+C:/Users/Administrator/source/repos/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.genruntimeconfig.cache
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.StaticWebAssets.xml
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.deps.json
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.runtimeconfig.json
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.runtimeconfig.dev.json
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/ConsoleToWebAPI.pdb
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.Abstractions.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.AspNetCore.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.AspNetCore.Abstractions.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.AspNetCore.Core.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.AspNetCore.Endpoints.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.AspNetCore.Hosting.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.AspNetCore.Tracking.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.Concurrency.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.Core.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.Extensions.Configuration.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.Extensions.DependencyInjection.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.Extensions.Hosting.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.Formatters.Ascii.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.Formatters.Json.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/App.Metrics.Formatters.Prometheus.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/Prometheus.NetCore.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/Prometheus.NetStandard.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/Prometheus.AspNetCore.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/protobuf-net.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/System.ServiceModel.Primitives.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/System.ServiceModel.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/runtimes/unix/lib/netstandard2.0/System.Private.ServiceModel.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Private.ServiceModel.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.csproj.AssemblyReference.cache
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.AssemblyInfoInputs.cache
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.AssemblyInfo.cs
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.csproj.CoreCompileInputs.cache
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/scopedcss/bundle/ConsoleToWebAPI.styles.css
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/staticwebassets/ConsoleToWebAPI.StaticWebAssets.Manifest.cache
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/staticwebassets/ConsoleToWebAPI.StaticWebAssets.Pack.cache
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/staticwebassets/msbuild.ConsoleToWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/staticwebassets/msbuild.build.ConsoleToWebAPI.props
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.ConsoleToWebAPI.props
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.ConsoleToWebAPI.props
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.RazorTargetAssemblyInfo.cache
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.csproj.CopyComplete
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/refint/ConsoleToWebAPI.dll
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.pdb
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ConsoleToWebAPI.genruntimeconfig.cache
+/Users/gangadhar/Library/CloudStorage/OneDrive-VMware,Inc/Workspace/dotnet-webapp/Sample App/ConsoleToWebAPI/ConsoleToWebAPI/obj/Debug/net5.0/ref/ConsoleToWebAPI.dll

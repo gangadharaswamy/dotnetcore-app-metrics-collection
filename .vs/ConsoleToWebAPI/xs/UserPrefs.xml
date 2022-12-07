@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B5B94E01-02E5-4942-B40D-B06ED2C49AC0}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleToWebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleToWebAPI/Dockerfile">
+    <Files>
+      <File FileName="ConsoleToWebAPI/Dockerfile" Line="24" Column="20" />
+      <File FileName="ConsoleToWebAPI/Program.cs" Line="16" Column="36" />
+      <File FileName="ConsoleToWebAPI/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleToWebAPI" expanded="True">
+            <Node name="ConsoleToWebAPI" expanded="True">
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
